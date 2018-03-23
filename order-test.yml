@@ -15,7 +15,7 @@ spring:
 env: test123
 girl:
   name: lili
-  age: 18
+  age: 20
 # 自定义负载均衡策略
 #PRODUCT:
 #  ribbon:
