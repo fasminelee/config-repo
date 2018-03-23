@@ -12,8 +12,7 @@ spring:
     password: 1234
   jpa:
     show-sql: true
-env:
-  dev
+env: dev
 # 自定义负载均衡策略
 #PRODUCT:
 #  ribbon:
